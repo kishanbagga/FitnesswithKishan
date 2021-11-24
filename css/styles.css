@@ -3,7 +3,7 @@
         color: white;
         margin: 0;
         padding: 0;
-        background: url('images/gymBg.jpg');
+        background-image: url('images/gymBg.jpg');
         font-family: 'Baloo Bhai 2', cursive;
         /* height: 1500px; */
     }
